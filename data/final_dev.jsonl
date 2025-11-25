@@ -1,0 +1,110 @@
+{"id": "utt_0048", "text": "this is aditya rao from hyderabad my phone is 79270 65379 and email is aditya dot rao at rediffmail dot co.in we can meet on 18/05/2024", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 24, "end": 33, "label": "CITY"}, {"start": 46, "end": 57, "label": "PHONE"}, {"start": 71, "end": 109, "label": "EMAIL"}, {"start": 125, "end": 135, "label": "DATE"}]}
+{"id": "utt_0203", "text": "i am neha dubey travelling to kolkata on 5 july 2023", "entities": [{"start": 5, "end": 15, "label": "PERSON_NAME"}, {"start": 30, "end": 37, "label": "CITY"}, {"start": 41, "end": 52, "label": "DATE"}]}
+{"id": "utt_0169", "text": "my name is sanjay krishnan i work in electronic city in jaipur", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}, {"start": 37, "end": 52, "label": "LOCATION"}, {"start": 56, "end": 62, "label": "CITY"}]}
+{"id": "utt_0690", "text": "the office is near koramangala in lucknow today", "entities": [{"start": 19, "end": 30, "label": "LOCATION"}, {"start": 34, "end": 41, "label": "CITY"}]}
+{"id": "utt_0892", "text": "this is deepak krishnan my phone number is 65910 30021 please call me tomorrow", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}, {"start": 43, "end": 54, "label": "PHONE"}]}
+{"id": "utt_1175", "text": "this is ramesh singh my phone number is 8263560229 please call me tomorrow", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 40, "end": 50, "label": "PHONE"}]}
+{"id": "utt_0622", "text": "i am sanjay patel travelling to pune on 16 august 2025", "entities": [{"start": 5, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 36, "label": "CITY"}, {"start": 40, "end": 54, "label": "DATE"}]}
+{"id": "utt_0045", "text": "email id of tushar dubey is tushar dot dubey at rediffmail dot org", "entities": [{"start": 12, "end": 24, "label": "PERSON_NAME"}, {"start": 28, "end": 66, "label": "EMAIL"}]}
+{"id": "utt_0436", "text": "this is ravi dubey from pune my phone is 6344144885 and email is ravi.dubey@gmail.co we can meet on 13 march 2023", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 24, "end": 28, "label": "CITY"}, {"start": 41, "end": 51, "label": "PHONE"}, {"start": 65, "end": 84, "label": "EMAIL"}, {"start": 100, "end": 113, "label": "DATE"}]}
+{"id": "utt_0367", "text": "this is ramesh singh my phone number is 62073 56475 please call me tomorrow", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 40, "end": 51, "label": "PHONE"}]}
+{"id": "gen_0", "text": "tomorrow problem delivery please information payment issue", "entities": []}
+{"id": "gen_1", "text": "the connection is very poor can you hear me", "entities": []}
+{"id": "gen_2", "text": "expires on 21 december 2026", "entities": [{"start": 11, "end": 27, "label": "DATE"}]}
+{"id": "gen_3", "text": "from surat", "entities": [{"start": 5, "end": 10, "label": "CITY"}]}
+{"id": "gen_4", "text": "office is near koramangala", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}]}
+{"id": "gen_5", "text": "from lucknow", "entities": [{"start": 5, "end": 12, "label": "CITY"}]}
+{"id": "gen_6", "text": "travelling on 19/11/2026 also this is reyansh mutti", "entities": [{"start": 14, "end": 24, "label": "DATE"}, {"start": 38, "end": 51, "label": "PERSON_NAME"}]}
+{"id": "gen_7", "text": "meet on 30 may 2026 office is near hitech city", "entities": [{"start": 8, "end": 19, "label": "DATE"}, {"start": 35, "end": 46, "label": "LOCATION"}]}
+{"id": "gen_8", "text": "card number is 3533749894134354", "entities": [{"start": 15, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "gen_9", "text": "travelling to lucknow", "entities": [{"start": 14, "end": 21, "label": "CITY"}]}
+{"id": "gen_10", "text": "near hitech city", "entities": [{"start": 5, "end": 16, "label": "LOCATION"}]}
+{"id": "gen_11", "text": "this is chasmum atwal. near hitech city", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}, {"start": 28, "end": 39, "label": "LOCATION"}]}
+{"id": "gen_12", "text": "my name is anusha bath", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "gen_13", "text": "travelling on 18/02/2026", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "gen_14", "text": "haan so my naam is jonathan swaminathan", "entities": [{"start": 19, "end": 39, "label": "PERSON_NAME"}]}
+{"id": "gen_15", "text": "i am advik mane", "entities": [{"start": 5, "end": 15, "label": "PERSON_NAME"}]}
+{"id": "gen_16", "text": "haan so my naam is varenya sastry", "entities": [{"start": 19, "end": 33, "label": "PERSON_NAME"}]}
+{"id": "gen_17", "text": "haan so my naam is qarin behl", "entities": [{"start": 19, "end": 29, "label": "PERSON_NAME"}]}
+{"id": "gen_18", "text": "i am vanya comar", "entities": [{"start": 5, "end": 16, "label": "PERSON_NAME"}]}
+{"id": "gen_19", "text": "checking plan status yesterday balance complaint", "entities": []}
+{"id": "gen_20", "text": "send email to rattanvyanjana at example dot org", "entities": [{"start": 14, "end": 47, "label": "EMAIL"}]}
+{"id": "gen_21", "text": "my phone is 9206492059", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "gen_22", "text": "card number is 3522941318699939", "entities": [{"start": 15, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "gen_23", "text": "number is 89884 34627", "entities": [{"start": 10, "end": 21, "label": "PHONE"}]}
+{"id": "gen_24", "text": "work in banjara hills", "entities": [{"start": 8, "end": 21, "label": "LOCATION"}]}
+{"id": "gen_25", "text": "my phone is 6197951867", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "gen_26", "text": "office is near hitech city and send email to cseshadri at example dot com", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}, {"start": 45, "end": 73, "label": "EMAIL"}]}
+{"id": "gen_27", "text": "travelling on 28 of may 2028", "entities": [{"start": 14, "end": 28, "label": "DATE"}]}
+{"id": "gen_28", "text": "work in whitefield", "entities": [{"start": 8, "end": 18, "label": "LOCATION"}]}
+{"id": "gen_29", "text": "office is in mumbai. i am dalaja bhasin", "entities": [{"start": 13, "end": 19, "label": "CITY"}, {"start": 26, "end": 39, "label": "PERSON_NAME"}]}
+{"id": "gen_30", "text": "checking plan status yesterday balance complaint", "entities": []}
+{"id": "gen_31", "text": "call me on 6753903309. rehte in kolkata", "entities": [{"start": 11, "end": 21, "label": "PHONE"}, {"start": 32, "end": 39, "label": "CITY"}]}
+{"id": "gen_32", "text": "office is in mumbai and meet on 30 june 2028", "entities": [{"start": 13, "end": 19, "label": "CITY"}, {"start": 32, "end": 44, "label": "DATE"}]}
+{"id": "gen_33", "text": "office is in surat", "entities": [{"start": 13, "end": 18, "label": "CITY"}]}
+{"id": "gen_34", "text": "work in banjara hills", "entities": [{"start": 8, "end": 21, "label": "LOCATION"}]}
+{"id": "gen_35", "text": "this is sarthak kakar and old card number maybe is 4232812067974034474", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}, {"start": 51, "end": 70, "label": "CREDIT_CARD"}]}
+{"id": "gen_36", "text": "number is 97518 42899 also email is kauraishani at example dot net", "entities": [{"start": 10, "end": 21, "label": "PHONE"}, {"start": 36, "end": 66, "label": "EMAIL"}]}
+{"id": "gen_37", "text": "expires on 30 may 2028", "entities": [{"start": 11, "end": 22, "label": "DATE"}]}
+{"id": "gen_38", "text": "the connection is very poor can you hear me", "entities": []}
+{"id": "gen_39", "text": "tomorrow problem delivery please information payment issue", "entities": []}
+{"id": "gen_40", "text": "old card number maybe is four six one eight three two four two one zero two four nine nine four two and haan so my naam is jeet sidhu", "entities": [{"start": 25, "end": 99, "label": "CREDIT_CARD"}, {"start": 123, "end": 133, "label": "PERSON_NAME"}]}
+{"id": "gen_41", "text": "office is in mumbai", "entities": [{"start": 13, "end": 19, "label": "CITY"}]}
+{"id": "gen_42", "text": "send email to neha48 at example dot net also card number is 38190659401397", "entities": [{"start": 14, "end": 39, "label": "EMAIL"}, {"start": 60, "end": 74, "label": "CREDIT_CARD"}]}
+{"id": "gen_43", "text": "i am amruta baria", "entities": [{"start": 5, "end": 17, "label": "PERSON_NAME"}]}
+{"id": "gen_44", "text": "travelling on 25 august 2026. my name is zilmil sathe", "entities": [{"start": 14, "end": 28, "label": "DATE"}, {"start": 41, "end": 53, "label": "PERSON_NAME"}]}
+{"id": "gen_45", "text": "send email to pratyush96 at example dot net also old card number maybe is three zero one seven five six five five one two five six seven six", "entities": [{"start": 14, "end": 43, "label": "EMAIL"}, {"start": 74, "end": 140, "label": "CREDIT_CARD"}]}
+{"id": "gen_46", "text": "number is 89008 01837", "entities": [{"start": 10, "end": 21, "label": "PHONE"}]}
+{"id": "gen_47", "text": "i want to cancel my subscription immediately", "entities": []}
+{"id": "gen_48", "text": "rehte in lucknow", "entities": [{"start": 9, "end": 16, "label": "CITY"}]}
+{"id": "gen_49", "text": "card number is four eight zero seven one five four five one six eight zero eight seven six zero three eight six from mumbai", "entities": [{"start": 15, "end": 111, "label": "CREDIT_CARD"}, {"start": 117, "end": 123, "label": "CITY"}]}
+{"id": "gen_50", "text": "old card number maybe is 377034824771095", "entities": [{"start": 25, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "gen_51", "text": "number is 87734 69560 and number is eight nine five five zero five two four eight six", "entities": [{"start": 10, "end": 21, "label": "PHONE"}, {"start": 36, "end": 85, "label": "PHONE"}]}
+{"id": "gen_52", "text": "work in old airport road and office is near mg road", "entities": [{"start": 8, "end": 24, "label": "LOCATION"}, {"start": 44, "end": 51, "label": "LOCATION"}]}
+{"id": "gen_53", "text": "old card number maybe is four four eight zero eight six one three one seven one two one", "entities": [{"start": 25, "end": 87, "label": "CREDIT_CARD"}]}
+{"id": "gen_54", "text": "card number is 30484677378267", "entities": [{"start": 15, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "gen_55", "text": "expires on 18/09/2026", "entities": [{"start": 11, "end": 21, "label": "DATE"}]}
+{"id": "gen_56", "text": "haan so my naam is ekaraj majumdar and card number is six five eight four zero four four nine nine seven two seven eight seven five eight", "entities": [{"start": 19, "end": 34, "label": "PERSON_NAME"}, {"start": 54, "end": 137, "label": "CREDIT_CARD"}]}
+{"id": "gen_57", "text": "i want to cancel my subscription immediately", "entities": []}
+{"id": "gen_58", "text": "email is krishna75 at example dot org", "entities": [{"start": 9, "end": 37, "label": "EMAIL"}]}
+{"id": "gen_59", "text": "call me on 99315 75232 and travelling on 13 november 2028", "entities": [{"start": 11, "end": 22, "label": "PHONE"}, {"start": 41, "end": 57, "label": "DATE"}]}
+{"id": "gen_60", "text": "i want to cancel my subscription immediately", "entities": []}
+{"id": "gen_61", "text": "expires on 1 of december 2026", "entities": [{"start": 11, "end": 29, "label": "DATE"}]}
+{"id": "gen_62", "text": "send email to xkaur at example dot com", "entities": [{"start": 14, "end": 38, "label": "EMAIL"}]}
+{"id": "gen_63", "text": "expires on 01/02/2026", "entities": [{"start": 11, "end": 21, "label": "DATE"}]}
+{"id": "gen_64", "text": "complaint order tomorrow ticket feedback please support", "entities": []}
+{"id": "gen_65", "text": "office is near hitech city", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}]}
+{"id": "gen_66", "text": "meet on 4 of april 2027", "entities": [{"start": 8, "end": 23, "label": "DATE"}]}
+{"id": "gen_67", "text": "work in koramangala", "entities": [{"start": 8, "end": 19, "label": "LOCATION"}]}
+{"id": "gen_68", "text": "near old airport road and rehte in mumbai", "entities": [{"start": 5, "end": 21, "label": "LOCATION"}, {"start": 35, "end": 41, "label": "CITY"}]}
+{"id": "gen_69", "text": "this is lakshmi raju", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "gen_70", "text": "send email to warhibansal at example dot org also from mumbai", "entities": [{"start": 14, "end": 44, "label": "EMAIL"}, {"start": 55, "end": 61, "label": "CITY"}]}
+{"id": "gen_71", "text": "travelling on 15 of january 2028", "entities": [{"start": 14, "end": 32, "label": "DATE"}]}
+{"id": "gen_72", "text": "card number is three five one seven one eight seven zero two six two one seven four five zero", "entities": [{"start": 15, "end": 93, "label": "CREDIT_CARD"}]}
+{"id": "gen_73", "text": "call me on 74949 66219", "entities": [{"start": 11, "end": 22, "label": "PHONE"}]}
+{"id": "gen_74", "text": "office is near old airport road", "entities": [{"start": 15, "end": 31, "label": "LOCATION"}]}
+{"id": "gen_75", "text": "card number is three five one five eight six five seven eight zero nine one three four three eight", "entities": [{"start": 15, "end": 98, "label": "CREDIT_CARD"}]}
+{"id": "gen_76", "text": "the connection is very poor can you hear me", "entities": []}
+{"id": "gen_77", "text": "this is radha chaudhari also card number is four seven two four zero zero five zero four five five six two three eight two", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}, {"start": 44, "end": 122, "label": "CREDIT_CARD"}]}
+{"id": "gen_78", "text": "my name is pranit garde", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "gen_79", "text": "haan so my naam is farhan raja also email is widishadhar at example dot org", "entities": [{"start": 19, "end": 30, "label": "PERSON_NAME"}, {"start": 45, "end": 75, "label": "EMAIL"}]}
+{"id": "gen_80", "text": "i am aachal sharaf", "entities": [{"start": 5, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "gen_81", "text": "meet on 27/12/2026 office is near old airport road", "entities": [{"start": 8, "end": 18, "label": "DATE"}, {"start": 34, "end": 50, "label": "LOCATION"}]}
+{"id": "gen_82", "text": "email is shroffbhavna at e x a m p l e  dot  n e t also from mumbai", "entities": [{"start": 9, "end": 50, "label": "EMAIL"}, {"start": 61, "end": 67, "label": "CITY"}]}
+{"id": "gen_83", "text": "from kolkata also call me on nine one six seven four three eight six six eight", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 29, "end": 78, "label": "PHONE"}]}
+{"id": "gen_84", "text": "meet on 24 march 2028", "entities": [{"start": 8, "end": 21, "label": "DATE"}]}
+{"id": "gen_85", "text": "i am ethan sathe. my phone is 78133 63254", "entities": [{"start": 5, "end": 16, "label": "PERSON_NAME"}, {"start": 30, "end": 41, "label": "PHONE"}]}
+{"id": "gen_86", "text": "email is chandani64 at example dot com", "entities": [{"start": 9, "end": 38, "label": "EMAIL"}]}
+{"id": "gen_87", "text": "travelling on 10/03/2027. this is leena subramanian", "entities": [{"start": 14, "end": 24, "label": "DATE"}, {"start": 34, "end": 51, "label": "PERSON_NAME"}]}
+{"id": "gen_88", "text": "meet on 10 may 2026", "entities": [{"start": 8, "end": 19, "label": "DATE"}]}
+{"id": "gen_89", "text": "near hitech city", "entities": [{"start": 5, "end": 16, "label": "LOCATION"}]}
+{"id": "gen_90", "text": "expires on 29/11/2026", "entities": [{"start": 11, "end": 21, "label": "DATE"}]}
+{"id": "gen_91", "text": "meet on 11/07/2027 and old card number maybe is 3594406409097438", "entities": [{"start": 8, "end": 18, "label": "DATE"}, {"start": 48, "end": 64, "label": "CREDIT_CARD"}]}
+{"id": "gen_92", "text": "card number is three five three three nine four two one zero four seven zero nine five two five", "entities": [{"start": 15, "end": 95, "label": "CREDIT_CARD"}]}
+{"id": "gen_93", "text": "call me on nine three seven one nine nine three five eight seven. work in koramangala", "entities": [{"start": 11, "end": 64, "label": "PHONE"}, {"start": 74, "end": 85, "label": "LOCATION"}]}
+{"id": "gen_94", "text": "checking plan status yesterday balance complaint", "entities": []}
+{"id": "gen_95", "text": "travelling on 15 april 2026", "entities": [{"start": 14, "end": 27, "label": "DATE"}]}
+{"id": "gen_96", "text": "expires on 27 february 2027 also this is ojasvi gill", "entities": [{"start": 11, "end": 27, "label": "DATE"}, {"start": 41, "end": 52, "label": "PERSON_NAME"}]}
+{"id": "gen_97", "text": "old card number maybe is four eight five eight eight four two four seven four five one nine", "entities": [{"start": 25, "end": 91, "label": "CREDIT_CARD"}]}
+{"id": "gen_98", "text": "i want to cancel my subscription immediately", "entities": []}
+{"id": "gen_99", "text": "email is jborra at example dot org", "entities": [{"start": 9, "end": 34, "label": "EMAIL"}]}
